@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Harb</h1>
-<h3 align="center">Mobile App Developer | Flutter</h3>
+<h3 align="center">Mobile Application Developer | Flutter</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedharb2435&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedharb2435" /> </p>
 <p align="left"> <a href="https://twitter.com/mohamed34726470" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed34726470?logo=twitter&style=for-the-badge" alt="mohamed34726470" /></a> </p>
 <div align=center>
-        <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" height="500">
+        <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" height="350">
     </div>
-- :school: I am a `Computer Science Fresh Graduate` from the Faculty of Computers and Artificial Intelligence, Benha University
+- :school: I am a `Computer Science Graduate` from the Faculty of Computers and Artificial Intelligence, Benha University
 
 - 🌱 I’m currently learning **Mastering Flutter: Responsive & Adaptive UI Design**
-
-- 🤝 I’m looking for help with **Open Source Projects**
 
 - 📫 How to reach me **mkhaledharb@gmail.com**
 
@@ -73,7 +71,6 @@
   <a href="https://example.com" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="example" width="40" height="40"/> 
   </a>
-  </a>
   <a href="https://example.com" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="example" width="40" height="40"/> 
   </a>
@@ -98,6 +95,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedharb2435&" alt="mohamedharb2435" /></p>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
   </p>
 
